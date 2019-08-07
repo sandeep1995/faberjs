@@ -1,4 +1,4 @@
-# MASON
+# FaberJS
 Mason is an open source CSS Grid implementation. Unlike HTML element which can leverage power of CSS for Grid layouting, objects like SVG or custom objects cannot do that. Hence this library tries to solve that problem.
 For example we have have an object storing drawing information like dimensions and styles and then for laying itself in a parent container, Mason can be used.
 
